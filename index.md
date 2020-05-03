@@ -17,8 +17,6 @@
 
 ## RESEARCH INTERESTS
 
-I am currently a doctoral dgree student majoring in Computer Science and Technology at the Department of Computer Science and Technology in Tsinghua Universty. My supervisor is Dr. Jia Jia.
-
 My research interests include affective computing and human-computer speech interaction.
 
 ## PUBLICATIONS
@@ -39,6 +37,9 @@ My research interests include affective computing and human-computer speech inte
 
 ## PROJECT EXPERIENCE
 
+04/2017-  Emotional Transfer in Simultaneous Interpretation cooperate with Sogou Corporation
+  speech emotion analysis and emotional speech synthesis
 
+04/2018-07/2019 Teaching style analysis of teachers in online education cooperate with TAL Corporation
 
 
