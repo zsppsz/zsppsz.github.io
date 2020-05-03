@@ -16,7 +16,7 @@
 
 ## ABOUT ME
 
-I am currently a doctoral dgree student majoring in Computer Science and Technology at the Department of Computer Science and Technology in Tsinghua Universty.
+I am currently a doctoral dgree student majoring in Computer Science and Technology at the Department of Computer Science and Technology in Tsinghua Universty. My supervisor is Dr. Jia Jia.
 
 My research interests include affective computing and human-computer speech interaction..
 
@@ -35,5 +35,7 @@ My research interests include affective computing and human-computer speech inte
 [6] Yihui Ma, Jia Jia, **Suping Zhou**, Jingtian Fu, Yejun Liu and Zijian Tong. Towards Better Understanding the Clothing Fashion Styles: A Multimodal Deep Learning Approach. In Proceedings of the 31th AAAI Conference on Artificial Intelligence (AAAI'17)
 
 [7]Long Zhang, Jia Jia, Fanbo Meng, **Suping Zhou**, Wei Chen, Cunjun Zhang, Runnan Li. Emphasis Detection for Voice Dialogue Applications Using Multi-channel Convolutional Bidirectional Long Short-Term Memory Network In Proceedings of the 11th International Symposium on Chinese Spoken Language Processing (ISCSLP'18)
+
+
 
 
