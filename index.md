@@ -40,7 +40,7 @@ Sogou Corporation（04/2017- ）
 
 - Emotional Transfer in Simultaneous Interpretation: speech emotion analysis and emotional speech synthesis.
 
-TAL Corporation（04/2018-07/2019）
+TAL Education Group（04/2018-07/2019）
 
 - Teaching style analysis of teachers in online education: characterize teaching styles based on multi-modal learning.
 
