@@ -46,4 +46,4 @@ TAL Corporation（04/2018-07/2019）
 
 ByteDance Corporation（10/2015-04/2016）
 
-- Data Mining: text information extraction and filtering from Web page.
+- Data Mining: text information extraction and filtering from Web pages.
