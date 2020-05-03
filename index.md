@@ -3,8 +3,10 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <h1></h1>
-      <p><b>CONTACT INFO</b></p>
+      <h1>Suping Zhou</h1>
+      <p><b>Ph.D Candidate</b></p>
+      <p><b>Computer Science and Technology at the Department of Computer Science and Technology in Tsinghua Universty. </b></p>
+      <h1>CONTACT INFO</h1>    
       <p><b>Email:：1874504489@qq.com</b></p>
       <p><b>Address: Tsinghua University, Beijing 100084.</b></p>
     </td>
@@ -14,11 +16,11 @@
   </tr>
 </table>
 
-## ABOUT ME
+## RESEARCH INTERESTS
 
 I am currently a doctoral dgree student majoring in Computer Science and Technology at the Department of Computer Science and Technology in Tsinghua Universty. My supervisor is Dr. Jia Jia.
 
-My research interests include affective computing and human-computer speech interaction..
+My research interests include affective computing and human-computer speech interaction.
 
 ## PUBLICATIONS
 
