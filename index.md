@@ -5,7 +5,7 @@
     <td width="100%">
       <h1>Suping Zhou</h1>
       <p><b>Ph.D Candidate</b></p>
-      <p><b>Computer Science and Technology at the Department of Computer Science and Technology in Tsinghua Universty. </b></p>
+      <p><b>Department of Computer Science and Technology in Tsinghua Universty. </b></p>
       <h1>CONTACT INFO</h1>    
       <p><b>Email:：1874504489@qq.com</b></p>
       <p><b>Address: Tsinghua University, Beijing 100084.</b></p>
