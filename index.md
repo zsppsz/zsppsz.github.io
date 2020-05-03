@@ -8,7 +8,6 @@
       <p><b>Department of Computer Science and Technology in Tsinghua Universty. </b></p>
       <h1>CONTACT INFO</h1>    
       <p><b>Email:：1874504489@qq.com</b></p>
-      <p><b>Address: Tsinghua University, Beijing 100084.</b></p>
     </td>
 <!--     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
