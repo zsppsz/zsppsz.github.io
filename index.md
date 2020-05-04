@@ -45,6 +45,6 @@ Cooperate with TAL Education Group（04/2018-07/2019）
 
 - **Teaching style analysis of teachers in online education**: characterize teaching styles based on multi-modal learning.
 
-Intern in ByteDance Corporation（10/2015-04/2016）
+Internship in ByteDance Corporation（10/2015-04/2016）
 
 - Data Mining: text information extraction and filtering from Web pages.
