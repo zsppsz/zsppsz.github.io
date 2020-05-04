@@ -9,9 +9,11 @@
 <!--       <h1>CONTACT INFO</h1>     -->
       <p><b>Supervisor: Dr. Jia Jia</b></p>
       <p><b>Email: supingzhou@qq.com</b></p>
+      <a href="/index-ch.html">Chinese Version</a>
     </td>
 <!--     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    <p><b>Chinese Version</b></p> 
     </td> -->
   </tr>
 </table>
