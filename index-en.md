@@ -1,11 +1,9 @@
-## Welcome to Zhou Suping(周素平)'s Page
-
 <table border="0">
   <tr>
     <td width="100%">
       <h1>Suping Zhou</h1>
       <p><b>Ph.D Candidate</b></p>
-      <p><b>Department of Computer Science and Technology in Tsinghua Universty. </b></p>
+      <p><b>Department of Computer Science and Technology in Tsinghua University. </b></p>
 <!--       <h1>CONTACT INFO</h1>     -->
       <p><b>Supervisor: Dr. Jia Jia</b></p>
       <p><b>Email: supingzhou@qq.com</b></p>
