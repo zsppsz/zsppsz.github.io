@@ -23,7 +23,7 @@
 
 ## 研究成果
 
-[1] **Suping Zhou**, Jia Jia, Yufeng Yin, Xiang Li, Yang Yao, Ying Zhang, Zeyang Ye, Kehua Lei, Yan Huang, Jialie Shen. Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional modelling. In Proceedings of the 27th ACM International Conference on Multimedia. (MM'19) 
+[1] **Suping Zhou**, Jia Jia, Yufeng Yin, Xiang Li, Yang Yao, Ying Zhang, Zeyang Ye, Kehua Lei, Yan Huang, Jialie Shen. Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional modelling. In Proceedings of the 27th ACM International Conference on Multimedia. (MM'19)[pdf1](https://hcsi.cs.tsinghua.edu.cn/Paper/Paper19/MM2019-ZHOUSUPING.pdf)[pdf2](https://dl.acm.org/doi/abs/10.1145/3343031.3351059)
 
 [2] Jia Jia, **Suping Zhou**, Yufeng Yin, Boya Wu, Wei Chen, Fanbo Meng and Yanfeng Wang. Inferring Emotions From Large-scale Internet Voice Data. IEEE Transactions on Multimedia, 2019 (TMM'19) 
 
