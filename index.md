@@ -47,7 +47,7 @@ Cooperate with TAL Education Group（04/2018-07/2019）
 
 Cooperate with Alibaba Company（06/2018-06/2019）
 
-- **Multimodal motion Analysis**
+- **Multimodal emotion Analysis**
 
 Internship in ByteDance Corporation（10/2015-04/2016）
 
