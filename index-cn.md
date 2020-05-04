@@ -7,7 +7,7 @@
 <!--       <h1>CONTACT INFO</h1>     -->
       <p><b>导师: 贾珈</b></p>
       <p><b>邮箱: supingzhou@qq.com</b></p>
-      <a href="/index.html">英文版</a>
+      <a href="/index-en.html">英文版</a>
     </td>
 <!--     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
