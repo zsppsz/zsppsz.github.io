@@ -39,7 +39,7 @@ My research interests include **affective computing** and **human-computer speec
 ## PROJECT EXPERIENCE
 Cooperate with Sogou Corporation（04/2017- ）
 
-- **Emotional Transfer in Simultaneous Interpretation**: speech emotion analysis and emotional speech synthesis.
+- **Emotional Transfer in Simultaneous Interpretation**: speech emotion analysis、speech emphasis analysis and emotional speech synthesis.
 
 Cooperate with TAL Education Group（04/2018-07/2019）
 
