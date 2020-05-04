@@ -39,7 +39,7 @@ My research interests include **affective computing** and **human-computer speec
 ## PROJECT EXPERIENCE
 Cooperate with Huawei Company（09/2019- ）
 
-- **Emotional Speech Synthesis**: Speech and Text emotion analysis.
+- **Emotional Speech Synthesis**: speech and text emotion analysis.
 
 Cooperate with Sogou Corporation（04/2017- ）
 
