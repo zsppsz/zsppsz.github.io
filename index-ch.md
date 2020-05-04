@@ -22,7 +22,7 @@
 
 ## 研究成果
 
-[1] **Suping Zhou**, Jia Jia, Yufeng Yin, Xiang Li, Yang Yao, Ying Zhang, Zeyang Ye, Kehua Lei, Yan Huang, Jialie Shen Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional modelling. In Proceedings of the 27th ACM International Conference on Multimedia. (MM'19) 
+[1] **Suping Zhou**, Jia Jia, Yufeng Yin, Xiang Li, Yang Yao, Ying Zhang, Zeyang Ye, Kehua Lei, Yan Huang, Jialie Shen. Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional modelling. In Proceedings of the 27th ACM International Conference on Multimedia. (MM'19) 
 
 [2] Jia Jia, **Suping Zhou**, Yufeng Yin, Boya Wu, Wei Chen, Fanbo Meng and Yanfeng Wang. Inferring Emotions From Large-scale Internet Voice Data. IEEE Transactions on Multimedia, 2019 (TMM'19) 
 
@@ -37,22 +37,22 @@
 [7]Long Zhang, Jia Jia, Fanbo Meng, **Suping Zhou**, Wei Chen, Cunjun Zhang, Runnan Li. Emphasis Detection for Voice Dialogue Applications Using Multi-channel Convolutional Bidirectional Long Short-Term Memory Network In Proceedings of the 11th International Symposium on Chinese Spoken Language Processing (ISCSLP'18)
 
 ## 项目经历
-实验室与华为合作项目（09/2019- ）
+科研合作项目-华为2012实验室中央媒体技术院音频工程部（09/2019- ）
 
 - **情感语音合成**: 主要负责其中的文本与语音情感分析部分。
 
-实验室与搜狗合作项目（04/2017- ）
+搜狗公司AI交互技术部实习（04/2017- ）
 
 - **同声传译中的情感迁移**: 源语言的重音分析以及目标语言的重音合成.(涉及语言主要为中文、英文)
 
-实验室与好未来合作项目（04/2018-07/2019）
+科研合作项目-好未来AILab（04/2018-07/2019）
 
 - **在线教育中的教师授课风格分析**: 对教师授课风格进行量化分析建模，并辅助教学质量检测。
 
-实验室与阿里巴巴合作项目（06/2018-04/2019）
+科研合作项目-清华大学-阿里巴巴人机自然交互联合实验室（06/2018-04/2019）
 
 - **多模态情感分析**: 主要负责其中的语音模态情感分析以及多模态融合。
 
-头条实习（10/2015-04/2016）
+字节跳动数据挖掘部实习（10/2015-04/2016）
 
 - 数据挖掘: 网页文本抽取及过滤。
