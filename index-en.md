@@ -39,19 +39,19 @@ My research interests include **affective computing** and **human-computer speec
 [7] Long Zhang, Jia Jia, Fanbo Meng, **Suping Zhou**, Wei Chen, Cunjun Zhang, Runnan Li. Emphasis Detection for Voice Dialogue Applications Using Multi-channel Convolutional Bidirectional Long Short-Term Memory Network In Proceedings of the 11th International Symposium on Chinese Spoken Language Processing (ISCSLP'18)
 
 ## PROJECT EXPERIENCE
-Cooperate with Huawei Company（09/2019- ）
+Project with Huawei Company（09/2019- ）
 
 - **Emotional Speech Synthesis**: speech and text emotion analysis.
 
-Cooperate with Sogou Corporation（04/2017- ）
+Internship in Sogou Corporation（04/2017- ）
 
 - **Emotional Transfer in Simultaneous Interpretation**: speech emphasis analysis and speech synthesis with stress.
 
-Cooperate with TAL Education Group（04/2018-07/2019）
+Project with TAL Education Group（04/2018-07/2019）
 
 - **Teaching style analysis of teachers in online education**: characterize teaching styles based on multi-modal learning.
 
-Cooperate with Alibaba Company（06/2018-04/2019）
+Project with Alibaba Company（06/2018-04/2019）
 
 - **Multimodal emotion Analysis**
 
