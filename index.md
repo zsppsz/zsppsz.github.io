@@ -45,7 +45,7 @@ Cooperate with TAL Education Group（04/2018-07/2019）
 
 - **Teaching style analysis of teachers in online education**: characterize teaching styles based on multi-modal learning.
 
-Cooperate with Alibaba Company（06/2018-06/2019）
+Cooperate with Alibaba Company（06/2018-04/2019）
 
 - **Multimodal emotion Analysis**
 
