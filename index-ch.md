@@ -23,13 +23,14 @@
 
 ## 研究成果
 
-[1] **Suping Zhou**, Jia Jia, Yufeng Yin, Xiang Li, Yang Yao, Ying Zhang, Zeyang Ye, Kehua Lei, Yan Huang, Jialie Shen. Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional modelling. In Proceedings of the 27th ACM International Conference on Multimedia. (MM'19)[[pdf1]](https://hcsi.cs.tsinghua.edu.cn/Paper/Paper19/MM2019-ZHOUSUPING.pdf) [pdf2](https://dl.acm.org/doi/abs/10.1145/3343031.3351059)
+[1] **Suping Zhou**, Jia Jia, Yufeng Yin, Xiang Li, Yang Yao, Ying Zhang, Zeyang Ye, Kehua Lei, Yan Huang, Jialie Shen. Understanding the Teaching Styles by an Attention based Multi-task Cross-media Dimensional modelling. In Proceedings of the 27th ACM International Conference on Multimedia. (MM'19)[[pdf1]](https://hcsi.cs.tsinghua.edu.cn/Paper/Paper19/MM2019-ZHOUSUPING.pdf) [[pdf2]](https://dl.acm.org/doi/abs/10.1145/3343031.3351059)
 
-[2] Jia Jia, **Suping Zhou**, Yufeng Yin, Boya Wu, Wei Chen, Fanbo Meng and Yanfeng Wang. Inferring Emotions From Large-scale Internet Voice Data. IEEE Transactions on Multimedia, 2019 (TMM'19) 
+[2] Jia Jia, **Suping Zhou**, Yufeng Yin, Boya Wu, Wei Chen, Fanbo Meng and Yanfeng Wang. Inferring Emotions From Large-scale Internet Voice Data. IEEE Transactions on Multimedia, 2019 (TMM'19) [[pdf]](https://hcsi.cs.tsinghua.edu.cn/Paper/Paper19/TMM19-zhousuping.pdf)
 
-[3] **Suping Zhou**, Jia Jia, Qi Wang, Yufei Dong, Yufeng Yin and Kehua Lei. Inferring Emotion from Conversational Voice Data: A Semi-supervised Multi-path Generative Neural Network Approach. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence. (AAAI'18).
+[3] **Suping Zhou**, Jia Jia, Qi Wang, Yufei Dong, Yufeng Yin and Kehua Lei. Inferring Emotion from Conversational Voice Data: A Semi-supervised Multi-path Generative Neural Network Approach. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence. (AAAI'18).[[pdf]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17236/15735)
 
-[4] **Suping Zhou**, Jia Jia, Long Zhang, Yanfeng Wang, Wei Chen, Fanbo Meng, Fei Yu, Jialie Shen. Inferring Emphasis for Real Voice Data: an Attentive Multimodal Neural Network Approach . The 26th Anniversary International Conference on MultiMedia Modeling. (MMM'2020)
+
+[4] **Suping Zhou**, Jia Jia, Long Zhang, Yanfeng Wang, Wei Chen, Fanbo Meng, Fei Yu, Jialie Shen. Inferring Emphasis for Real Voice Data: an Attentive Multimodal Neural Network Approach. The 26th Anniversary International Conference on MultiMedia Modeling. (MMM'2020)
 
 [5] **Suping Zhou**, Jia Jia, Yanfeng Wang, Wei Chen, Fanbo Meng, Ya Li, Jianhua Tao. Emotion Inferring from Large-scale Internet Voice Data: A Multimodal Deep Learning Approach. 2018 First Asian Conference on Affective Computing and Intelligent Interaction (ACII Asia). (ACII Asia'18)
 
