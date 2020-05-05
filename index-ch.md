@@ -32,7 +32,7 @@
 
 [4] **Suping Zhou**, Jia Jia, Long Zhang, Yanfeng Wang, Wei Chen, Fanbo Meng, Fei Yu, Jialie Shen. Inferring Emphasis for Real Voice Data: an Attentive Multimodal Neural Network Approach. The 26th Anniversary International Conference on MultiMedia Modeling. (MMM'2020)(CCF C, full paper)[[pdf]](/MMM2020_zhousuping.pdf)
 
-[5] **Suping Zhou**, Jia Jia, Yanfeng Wang, Wei Chen, Fanbo Meng, Ya Li, Jianhua Tao. Emotion Inferring from Large-scale Internet Voice Data: A Multimodal Deep Learning Approach. 2018 First Asian Conference on Affective Computing and Intelligent Interaction (ACII Asia)(EI, full paper). (ACII Asia'18)
+[5] **Suping Zhou**, Jia Jia, Yanfeng Wang, Wei Chen, Fanbo Meng, Ya Li, Jianhua Tao. Emotion Inferring from Large-scale Internet Voice Data: A Multimodal Deep Learning Approach. 2018 First Asian Conference on Affective Computing and Intelligent Interaction (ACII Asia'18)(EI, full paper). 
 
 [6] Yihui Ma, Jia Jia, **Suping Zhou**, Jingtian Fu, Yejun Liu and Zijian Tong. Towards Better Understanding the Clothing Fashion Styles: A Multimodal Deep Learning Approach. In Proceedings of the 31th AAAI Conference on Artificial Intelligence (AAAI'17)(CCF A, full paper)
 
