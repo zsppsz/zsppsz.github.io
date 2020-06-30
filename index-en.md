@@ -65,6 +65,6 @@ Internship in ByteDance Corporation（10/2015-04/2016）
 
 - 2018 The 11th International Doctoral Forum Best Paper Award
 
-- ACM-ICPC Asia Regional Contest: 1*Silver + 1*Bronze
+- ACM-ICPC Asia Regional Contest: 1\*Silver + 1\*Bronze
  
 - 2014~2016 National Scholarship for three consecutive years (Top 1%)
