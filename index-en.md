@@ -58,3 +58,13 @@ Project with Alibaba Company（06/2018-04/2019）
 Internship in ByteDance Corporation（10/2015-04/2016）
 
 - Data Mining: text information extraction and filtering from Web pages.
+
+## HONORS
+
+- 2019 Tung OOCL Scholarship (for Tsinghua University students)
+
+- 2018 The 11th International Doctoral Forum Best Paper Award
+
+- ACM-ICPC Asia Regional Contest: 1*Silver + 1*Bronze
+ 
+- 2014~2016 National Scholarship for three consecutive years (Top 1%)
